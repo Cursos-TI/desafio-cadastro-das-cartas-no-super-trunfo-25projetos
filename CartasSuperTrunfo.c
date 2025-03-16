@@ -8,11 +8,12 @@
 
 int main() {
    
-    char carta = 'A;
-    char codigo[10] = A01;
-    char[20] nome da cidade = Manaus;
+    char carta = 'A';
+    char codigo[10] = "A 01";
+    char nomedacidade[20] = "Manaus";
 
-    printf("carta: %c A\n, carta");
+    printf("carta A 01: %c\n, cartaA01");
+    printf("código: %s\n, codigo");
 
 
 
