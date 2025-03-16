@@ -7,15 +7,15 @@
 //Teste larissa
 
 int main() {
-    printf("Desafio Super trunfo!\n");
-    printf("Carta: 1\n");
-    printf("Estado: Amazonas\n");
-    printf("Código: A 01\n");
-    printf("Nome da cidade: Manaus\n");
-    printf("População: 2000000\n");
-    printf("Área: 11401Km quadrado\n");
-    printf("PIB: 103 bilhões de reais\n");
-    printf("Número de pontos tutísticos: 30\n");
+   
+    char carta = 'A;
+    char codigo[10] = A01;
+    char[20] nome da cidade = Manaus;
+
+    printf("carta: %c A\n, carta");
+
+
+
 
 
 
