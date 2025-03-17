@@ -8,12 +8,23 @@
 
 int main() {
    
-    char carta = 'A';
-    char codigo[10] = "A 01";
-    char nomedacidade[20] = "Manaus";
+    char Estado = 'A';
+    int Código = 01;
+    char Cidade[10] = "Manaus";
+    int População = 2000000;
+    char Área[20] = "11.401 Km2";
+    char PIB [15] = "103 bilhões";
+    char Turismo[25] = "35 pontos";
 
-    printf("carta A 01: %c\n, cartaA01");
-    printf("código: %s\n, codigo");
+    printf("Estado: %c\n", Estado);
+    printf("Código: %d\n", Código);
+    printf("Cidade: %s\n", Cidade);
+    printf("Populacão: %d\n", População);
+    printf("Área: %s\n", Área);
+    printf("PIB: %s\n", PIB);
+    printf("Turismo: %s\n",Turismo);
+
+
 
 
 
